@@ -4,15 +4,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348140825959"
-global.ownername = "🕷BADBOI-v2-BUG🕷"
-global.ytname = "🕷BADBOI-v2-BUG🕷"
+global.ownernomer = "254759799995"
+global.ownername = "🕷BADBOI-v2-BUCKFOY🕷"
+global.ytname = "🕷BUCKFOY-v2-BUG🕷"
 global.socialm = "GitHub: BADBOI-v1"
-global.location = "Africa, Nigeria, Ogun-state"
+global.location = "Africa, KENYA, Machakos"
 
 global.ownernumber = '2348140825959,2348140825959,2348140825959'  //creator number
-global.ownername = '🕷BADBOI-v2-BUG🕷' //owner name
-global.botname = '🕷BADBOI-v2-BUG🕷' //name of the bot
+global.ownername = '🕷BUCKFOY-v2-BUG🕷' //owner name
+global.botname = '🕷BUCKFOY-v2-BUG🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -29,7 +29,7 @@ global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
